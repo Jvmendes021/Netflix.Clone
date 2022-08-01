@@ -1,3 +1,3 @@
 # Netflix.Clone
 
-Home page da Netfix usando Jquery.
+Home page da Netfix ultilizando o framework Jquery.
